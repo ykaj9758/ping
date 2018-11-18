@@ -25,6 +25,6 @@
        
   </dependencies>
   <build>
-    <finalName>ROOT</finalName>
+    <finalName>ping</finalName>
   </build>
 </project>
